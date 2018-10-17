@@ -21,8 +21,32 @@ def makeInverseIndex(strlist):
     return dictionary;
 
 
+def orSearch(inverseIndex, query):
+    returnSet = set()
+    tempSet = set()
+    for word in query:
+        tempSet = inverseIndex[word]
+        returnSet = returnSet | tempSet
+    return returnSet;
+
+
+def andSearch(inverseIndex, query):
+    returnSet = set()
+    tempSet = set()
+    for word in query:
+        tempSet = inverseIndex[word]
+        returnSet = tempSet if (len(returnSet) < 1) else (returnSet & tempSet)
+
+    return returnSet;
+
+
 listA = getStrList('stories_small.txt')
 listB = getStrList('stories_big.txt')
 
 dictionaryA = makeInverseIndex(listA)
 dictionaryB = makeInverseIndex(listB)
+
+print('or search')
+print(orSearch(dictionaryB, ['I', 'am', 'good', 'boy']))
+print('and search')
+print(andSearch(dictionaryB, ['I', 'am', 'good', 'man']))
