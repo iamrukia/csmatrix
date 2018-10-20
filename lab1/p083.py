@@ -13,6 +13,8 @@ def tuple_sum(A, B):
         result_list.append((A[i][0] + B[i][0], A[i][1] + B[i][1]))
     return result_list
 
+# one line code should be
+# return [ (t[0][0] + t[1][0], t[0][1] + t[1][1]) for t in zip(A, B) ]
 
 # test the code
 test_tuple_one = [(1, 2), (3, 4), (5, 6), (7, 8)]
