@@ -22,6 +22,7 @@ def get_original_char_with_key(trail_key, word):
 
     result_list = [new_word_char_list[i] - new_key_list[i] for i in range(len(new_word_char_list))]
     new_result_list = [1 if x == one else 0 for x in result_list]
+    
     return_result = ''.join(str(k) for k in new_result_list)
     return convert_to_string_from_binary(return_result)
 
