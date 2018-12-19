@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e888d7e2-ed9a-40fc-a24a-11101af1f0e3" name="Default Changelist" comment="" />
+    <list default="true" id="e888d7e2-ed9a-40fc-a24a-11101af1f0e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap1/p151.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap1/p151.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,189 +12,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/csmatrix$p174.coverage" NAME="p174 Coverage Results" MODIFIED="1540856491001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p177.coverage" NAME="p177 Coverage Results" MODIFIED="1540932995767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p082.coverage" NAME="p082 Coverage Results" MODIFIED="1539803498771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p171.coverage" NAME="p171 Coverage Results" MODIFIED="1540848062794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$playground.coverage" NAME="playground Coverage Results" MODIFIED="1540412871063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p151.coverage" NAME="p151 Coverage Results" MODIFIED="1540842781807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p178.coverage" NAME="p178 Coverage Results" MODIFIED="1540934080790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p085.coverage" NAME="p085 Coverage Results" MODIFIED="1540152312823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p081.coverage" NAME="p081 Coverage Results" MODIFIED="1539803188335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p176.coverage" NAME="p176 Coverage Results" MODIFIED="1540931568970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p173.coverage" NAME="p173 Coverage Results" MODIFIED="1540850466068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$t1417.coverage" NAME="t1417 Coverage Results" MODIFIED="1540677777132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p084.coverage" NAME="p084 Coverage Results" MODIFIED="1540072368498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p175.coverage" NAME="p175 Coverage Results" MODIFIED="1540931159559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$p172.coverage" NAME="p172 Coverage Results" MODIFIED="1540848427466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
-    <SUITE FILE_PATH="coverage/csmatrix$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1539719378706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
     <SUITE FILE_PATH="coverage/csmatrix$p083.coverage" NAME="p083 Coverage Results" MODIFIED="1539812080343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-674541190">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.4" value="5" />
-          <entry key="project.open.time.5" value="6" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="PNG" value="1" />
-          <entry key="cfg" value="1" />
-          <entry key="png" value="1" />
-          <entry key="py" value="22" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="2" />
-          <entry key="Ini" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="3376" />
-          <entry key="py" value="9857" />
-          <entry key="t1417" value="531" />
-          <entry key="txt" value="175" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="175" />
-          <entry key="Python" value="13764" />
-        </counts>
-      </usages-collector>
-    </session>
+    <SUITE FILE_PATH="coverage/csmatrix$p177.coverage" NAME="p177 Coverage Results" MODIFIED="1540932995767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p171.coverage" NAME="p171 Coverage Results" MODIFIED="1540848062794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p175.coverage" NAME="p175 Coverage Results" MODIFIED="1540931159559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p085.coverage" NAME="p085 Coverage Results" MODIFIED="1540152312823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p151.coverage" NAME="p151 Coverage Results" MODIFIED="1540842781807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p082.coverage" NAME="p082 Coverage Results" MODIFIED="1539803498771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p178.coverage" NAME="p178 Coverage Results" MODIFIED="1540934080790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p174.coverage" NAME="p174 Coverage Results" MODIFIED="1540856491001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p081.coverage" NAME="p081 Coverage Results" MODIFIED="1539803188335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p084.coverage" NAME="p084 Coverage Results" MODIFIED="1540072368498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/csmatrix$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1539719378706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p173.coverage" NAME="p173 Coverage Results" MODIFIED="1540850466068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$playground.coverage" NAME="playground Coverage Results" MODIFIED="1540412871063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p172.coverage" NAME="p172 Coverage Results" MODIFIED="1540848427466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$t1417.coverage" NAME="t1417 Coverage Results" MODIFIED="1540677777132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
+    <SUITE FILE_PATH="coverage/csmatrix$p176.coverage" NAME="p176 Coverage Results" MODIFIED="1540931568970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/t1417.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#240#251#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap1/p151.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+            <state relative-caret-position="391">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#652#677#0" expanded="true" />
-                <marker date="1540769466513" expanded="true" signature="1419:1420" ph="..." />
-                <marker date="1540769466513" expanded="true" signature="1419:1553" ph="..." />
-                <marker date="1540769466513" expanded="true" signature="1652:2006" ph="..." />
-                <marker date="1540769466513" expanded="true" signature="1951:2006" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p171.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <marker date="1540848062715" expanded="true" signature="233:238" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p172.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <marker date="1540848427402" expanded="true" signature="261:266" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p173.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <marker date="1540850465984" expanded="true" signature="327:332" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p174.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <marker date="1540857434623" expanded="true" signature="105:110" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p175.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <marker date="1540931159435" expanded="true" signature="117:122" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p176.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-              <folding>
-                <marker date="1540931568859" expanded="true" signature="105:110" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap1/p177.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <marker date="1540932995677" expanded="true" signature="121:126" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap1/p178.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <marker date="1540934084857" expanded="true" signature="106:111" ph="..." />
+                <marker date="1545253098155" expanded="true" signature="1420:1421" ph="..." />
+                <marker date="1545253098155" expanded="true" signature="1420:1554" ph="..." />
+                <marker date="1545253098155" expanded="true" signature="1653:2007" ph="..." />
+                <marker date="1545253098155" expanded="true" signature="1952:2007" ph="..." />
               </folding>
             </state>
           </provider>
@@ -222,7 +73,6 @@
         <option value="$PROJECT_DIR$/homework2/p174.py" />
         <option value="$PROJECT_DIR$/chap1/playground.py" />
         <option value="$PROJECT_DIR$/chap1/t1417.py" />
-        <option value="$PROJECT_DIR$/chap1/p151.py" />
         <option value="$PROJECT_DIR$/chap1/p171.py" />
         <option value="$PROJECT_DIR$/chap1/p172.py" />
         <option value="$PROJECT_DIR$/chap1/p173.py" />
@@ -231,20 +81,15 @@
         <option value="$PROJECT_DIR$/chap1/p176.py" />
         <option value="$PROJECT_DIR$/chap1/p177.py" />
         <option value="$PROJECT_DIR$/chap1/p178.py" />
+        <option value="$PROJECT_DIR$/chap1/p151.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
-    <option name="width" value="1938" />
-    <option name="height" value="1056" />
+    <option name="x" value="3792" />
+    <option name="y" value="1028" />
+    <option name="width" value="1292" />
+    <option name="height" value="704" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,11 +118,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value=": given an English-French dictionary&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -442,6 +288,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539474742324</updated>
+      <workItem from="1545254268294" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1539648313383</created>
@@ -548,13 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1540934093405</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="problem 1.7.8 donea">
+      <created>1545253050618</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545253050618</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <frame x="3832" y="1050" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.072365806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.098614074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -580,9 +437,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="lab1 done" />
@@ -599,7 +453,8 @@
     <MESSAGE value="problem 1.7.6 done" />
     <MESSAGE value="problem 1.7.7 done" />
     <MESSAGE value="problem 1.7.8 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 1.7.8 done" />
+    <MESSAGE value="problem 1.7.8 donea" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 1.7.8 donea" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
@@ -650,20 +505,6 @@
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#240#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap1/p151.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
-          <folding>
-            <element signature="e#652#677#0" expanded="true" />
-            <marker date="1540769466513" expanded="true" signature="1419:1420" ph="..." />
-            <marker date="1540769466513" expanded="true" signature="1419:1553" ph="..." />
-            <marker date="1540769466513" expanded="true" signature="1652:2006" ph="..." />
-            <marker date="1540769466513" expanded="true" signature="1951:2006" ph="..." />
           </folding>
         </state>
       </provider>
@@ -744,6 +585,20 @@
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <marker date="1540934084857" expanded="true" signature="106:111" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap1/p151.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#652#677#0" expanded="true" />
+            <marker date="1545253098155" expanded="true" signature="1420:1421" ph="..." />
+            <marker date="1545253098155" expanded="true" signature="1420:1554" ph="..." />
+            <marker date="1545253098155" expanded="true" signature="1653:2007" ph="..." />
+            <marker date="1545253098155" expanded="true" signature="1952:2007" ph="..." />
           </folding>
         </state>
       </provider>
